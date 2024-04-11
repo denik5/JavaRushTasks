@@ -27,8 +27,6 @@ public class Solution {
     }
 
     public static class SiamCat extends NormalCat {
-        public SiamCat(String name) {
-            super(name);
-        }
+
     }
 }
