@@ -6,8 +6,8 @@ package com.javarush.task.task15.task1512;
 
 public class Solution {
     public static void main(String[] args) {
-        SiamCat simka = new SiamCat("Simka");
-        NakedCat nakedSimka = simka.shave();
+        //SiamCat simka = new SiamCat("Simka");
+        //NakedCat nakedSimka = simka.shave();
     }
 
     public static class NakedCat {
